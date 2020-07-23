@@ -8,6 +8,7 @@ class Home extends StatelessWidget {
     'Google',
     'Samsung',
     'Motorola',
+    'Xiaomi',
   ];
 
   @override
