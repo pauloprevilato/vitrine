@@ -74,7 +74,7 @@ List<Produto> produtosMock = [
       marca: 'Apple'),
   Produto(
       imagem: 'assets/images/celular7.png',
-      cor: Colors.green,
+      cor: Colors.black,
       tamanho: 10,
       descricao: 'Você pode citar as descrições neste campo!',
       titulo: 'Smartphone Xiaomi',
