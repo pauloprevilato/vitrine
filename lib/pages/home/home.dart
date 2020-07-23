@@ -3,13 +3,7 @@ import 'package:flutter/widgets.dart';
 import 'package:vitrine_app/pages/home/lista_celulares.dart';
 
 class Home extends StatelessWidget {
-  List<String> tabs = [
-    'Apple',
-    'Google',
-    'Samsung',
-    'Motorola',
-    'Xiaomi',
-  ];
+  List<String> tabs = ['Apple', 'Google', 'Samsung', 'Motorola', 'Xiaomi'];
 
   @override
   Widget build(BuildContext context) {
