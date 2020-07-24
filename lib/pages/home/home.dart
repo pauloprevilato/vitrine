@@ -4,7 +4,7 @@ import 'package:vitrine_app/pages/home/lista_celulares.dart';
 
 class Home extends StatelessWidget {
   List<String> tabs = ['Apple', 'Google', 'Samsung', 'Motorola', 'Xiaomi'];
-//by pauloprevilato
+//by pauloprevilato, gratidão ao Senhor!
   @override
   Widget build(BuildContext context) {
     return DefaultTabController(
